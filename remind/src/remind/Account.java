@@ -5,10 +5,10 @@ public class Account {
 	private String name;
 	private int jango;
 	
-	public Account() {
-		this.bunho = " ";
-		this.name = " ";
-		this.jango = 0;
+	public Account(String bunho, String name, int jango) {
+		this.bunho = bunho;
+		this.name = name;
+		this.jango = jango;
 	}
 	
 	
