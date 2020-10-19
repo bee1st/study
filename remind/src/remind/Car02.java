@@ -1,4 +1,4 @@
-package Study;
+package remind;
 
 public class Car02 {
 	public static void main(String[] args) {

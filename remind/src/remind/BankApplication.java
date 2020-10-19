@@ -1,4 +1,4 @@
-package Study;
+package remind;
 import java.util.Scanner;
 
 public class BankApplication {
@@ -21,9 +21,7 @@ public class BankApplication {
 			case 4 : withdraw();
 			case 5 : run = false;
 
-
 		}
-
 
 	}
 }
@@ -36,7 +34,7 @@ private static void createAccount() {
 	System.out.println("--------------");
 	System.out.println("계좌생성");
 	System.out.println("--------------");
-
+	sc.next()
 	//계좌번호, 계좌주: 초기입금액 입력받아 저장
 
 	//Account클래스 객체생성

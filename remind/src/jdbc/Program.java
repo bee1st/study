@@ -1,4 +1,4 @@
-package self.jdbc.ex1;
+package jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -22,7 +22,6 @@ public class Program {
 		String title = rs.getString("TITLE");
 		System.out.println(title);
 		}
-		
 		rs.close();
 		st.close();
 		con.close();

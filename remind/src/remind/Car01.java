@@ -1,4 +1,4 @@
-package Study;
+package remind;
 
 public class Car01 {
 	int speed;
