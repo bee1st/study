@@ -6,10 +6,6 @@ create table 테이블명(
 	컬럼명 타입(크기) [constraint 제약조건명 제약조건 default 기본값]
 	);
 
-	
-
-
-
 
 select * from DEPT;
 
