@@ -1,38 +1,26 @@
 package remind;
 
 public class Account {
-	private String bunho;
-	private String name;
-	private int jango;
+	String accountNo;
+	String ownerName;
+	int jango;
 	
-	public Account(String bunho, String name, int jango) {
-		this.bunho = bunho;
-		this.name = name;
+	Account(String accountNo, String ownerName, int jango){
+		this.accountNo = accountNo;
+		this.ownerName = ownerName;
 		this.jango = jango;
 	}
 	
-	
-	public void setBunho(String bunho) {
-		this.bunho = bunho;
+	void input(int Mymoney) {
+		jango += Mymoney;
 	}
-	public void setName(String name) {
-		this.name = name;
+	int output(int Mymoney) {
+		if(jango < Mymoney) {
+			return 0;
+		} else {
+			jango -= Mymoney;
+			return jango;
+		}
 	}
-	public void setJango(int jango) {
-		this.jango = jango;
-	}
-	
-	public String getBunho() {
-		return this.bunho;
-	}
-	
-	public String getName() {
-		return this.name;
-	}
-		
-	public int getJango() {
-		return this.jango;
-	}
-	
-	
+
 }
