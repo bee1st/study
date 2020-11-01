@@ -11,7 +11,7 @@ public class Program {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		
 		String url = "jdbc:oracle:thin:@localhost:1521/xe";
-		String sql1 = "SELECT * FROM NOTICE";
+		String sql1 = "SELECT * FROM student";
 		
 		Class.forName("oracle.jdbc.driver.OracleDriver"); //드라이버 로드
 		Connection con = DriverManager.getConnection(url, "happy", "day"); //연결 얻기
@@ -19,10 +19,9 @@ public class Program {
 		ResultSet rs = st.executeQuery(sql1); //객체의 결과를 ResultSet이나 int에 받기
 		
 		if(rs.next()) {
-		String title = rs.getString("TITLE");
+		String title = rs.getString("student");
 		System.out.println(title);
 		}
-		
 		rs.close();
 		st.close();
 		con.close();
