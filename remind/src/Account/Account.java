@@ -1,4 +1,4 @@
-package remind;
+package Account;
 
 public class Account {
 	String accountNo;

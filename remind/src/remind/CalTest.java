@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class CalTest {
 
-	public static void main(String[] args) {
-		
+	public void cal() {
 		Scanner sc = new Scanner(System.in); //입력
 
 		String[] Oper = {"+","-","*","/"}; //연산자 배열에 저장
@@ -110,7 +109,24 @@ public class CalTest {
 
 		}
 		sc.close();
-
 	}
-
+	public int add(int x, int y) {
+		return x + y;
+	}
+	public int minus(int x, int y) {
+		return x - y;
+	}
+	public String str1(String x, String y) {
+		return x;
+	}
+	public String str2(String x, String y) {
+		return y;
+	}
+	public long divide(long x, long y) {
+		if(y == 0) {
+			return 0;
+		}
+		return x / y;
+	}
+	
 }
