@@ -4,13 +4,13 @@ public class Account {
 	String accountNo;
 	String ownerName;
 	int jango;
-	
-	Account(String accountNo, String ownerName, int jango){
+
+	public Account(String accountNo, String ownerName, int jango){
 		this.accountNo = accountNo;
 		this.ownerName = ownerName;
 		this.jango = jango;
 	}
-	
+
 	void input(int Mymoney) {
 		jango += Mymoney;
 	}
@@ -24,3 +24,5 @@ public class Account {
 	}
 
 }
+
+
