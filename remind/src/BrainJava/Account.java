@@ -1,6 +1,6 @@
 package BrainJava;
 
-public class Account {
+public class Account { 
 	String accountNo;
 	String ownerName;
 	int balance;
@@ -14,7 +14,7 @@ public class Account {
 	}
 
 	//예금한다
-	void deposit(int amount) {
+	public void deposit(int amount) {
 		balance += amount; 
 	}
 
