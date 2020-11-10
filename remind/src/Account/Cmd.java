@@ -1,24 +1,23 @@
 package Account;
 
-import java.io.File;
 import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.Reader;
 
 //C:\Windows\System32
-
-
 public class Cmd {
 
-	public static void main(String[] args) throws Exception{
-		File f = new File("C:\\Windows\\System32", "cmd.exe");
-		InputStream is = System.in; 
-		byte[] datas = new byte[100];
-		System.out.print("입력 : ");
-		
-		int nameBytes = is.read(datas);  
-		String cmd1 = new String(datas, 0, nameBytes-2);
-		
-		System.out.println("==> " + cmd1);
-	
-	}
+	public static void main(String[] args) {
+		Runtime rt = Runtime.getRuntime();
+		String exeFile = "C:\\Windows\\System32\\cmd.exe";
+		System.out.println("exeFile: " + exeFile);
+		Process p;
 
+		try {
+			p = rt.exec(exeFile);
+			p.waitFor();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
 }
