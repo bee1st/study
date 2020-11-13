@@ -11,7 +11,7 @@ public class InterfaceExample5 {
 		obj.setFont("궁서체");
 		printLabel(obj);
 
-	}
+	}	
 	static void printLabel(Label obj) {
 		System.out.printf("%s: %d x %d 배경색(%s) 전경색(%s) 폰트(%s) %n", obj.text, obj.width, obj.height, obj.background, obj.foreground, obj.font);
 	}
