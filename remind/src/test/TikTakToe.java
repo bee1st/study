@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class TikTakToe {
 	
 	/***
-	 * 
 	 * @param board : board
 	 * @param a
 	 * @param b
@@ -18,21 +17,21 @@ public class TikTakToe {
 		// [ ] [ ] [ ]
 				
 		boolean check = false;
-		// a 줄이 완성됬는지
+		// a 줄이 완성됐는지
 		if (board[a][0] == board[a][1] && board[a][0] == board[a][2]) {
 			check = true;
 		} else if (board[0][b] == board[1][b] && board[0][b] == board[2][b]) {
-			// b 줄이 완성됬는지
+		// b 줄이 완성됐는지
 			check = true;
 		}
-		if (Math.abs(a - b) == 0 || Math.abs(a- b) == 2 ) {
+		if (Math.abs(a - b) == 0 || Math.abs(a - b) == 2 ) {
 			if (board[0][0] == board[1][1] && board[0][0] == board[2][2]) {
 				check = true;
 			} else if (board[2][0] == board[1][1] && board[0][2] == board[1][1]) {
 				check = true;
 			}
 		}
-		// a,b로 대각선이 완료됬는지
+		// a,b로 대각선이 완료됐는지
 		if (check == true) {
 			return board[a][b].equals("[O]") ? 1 : 2;
 		}
@@ -48,9 +47,9 @@ public class TikTakToe {
 				{"[ ]","[ ]","[ ]"},
 				{"[ ]","[ ]","[ ]"}};
 		
-		while (x == 0) {
+		while (true) {
 			if(count == 1) {
-				System.out.print("1번 입력 (0~9) : ");
+				System.out.print("1번 입력 (ex: 1 1) : ");
 				int a = sc.nextInt();
 				int b = sc.nextInt();
 				if(board[a][b].equals("[ ]")) {
@@ -64,7 +63,7 @@ public class TikTakToe {
 					System.out.println("입력 불가");
 				}
 			}else if(count == 2) {
-				System.out.print("2번 입력 (0~9) : ");
+				System.out.print("2번 입력 (ex: 1 1) : ");
 				int a = sc.nextInt();
 				int b = sc.nextInt();
 				if(board[a][b].equals("[ ]")) {
