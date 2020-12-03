@@ -84,7 +84,7 @@ if(rescode==200):
 else:
     print("Error Code:" + rescode)
 
-print(response_body.decode('utf-8'))
+print(response_body.decode('utf-8'), end=' ')
 # print(json.loads(response_body.decode('utf-8'))['message']['result']['translatedText'])
 with open(os.path.join('data','j.js'), 'w', encoding='utf-8') as f:
     f.write(response_body.decode('utf-8'))

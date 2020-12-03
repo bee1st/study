@@ -13,4 +13,4 @@ with open('data\\sports.csv', 'w', encoding='utf-8') as f:
     # print(dic['list'])
     for i in dic['list']: #i = {}, {}, ..
         str = '*{}\n{}\n'.format(i['title'], i['subContent'])
-        f.write(str)
+        f.write(str) 
