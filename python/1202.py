@@ -8,7 +8,7 @@ recvd=requests.get(url)
 # 상세페이지의 차이름,가격,기본정보를 데이터베이스에 입력, 이미지 car폴더에 저장
 dom = BeautifulSoup(recvd.text,'lxml')
 alist = dom.select('#listCont div.mode-cell.title > p.tit > a')
-# print(len(alist))
+# print(alist)
 baseurl = 'https://www.bobaedream.co.kr/'
 urllist = []
 for a in alist:
