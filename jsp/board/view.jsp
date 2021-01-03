@@ -1,0 +1,56 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<% System.out.println("/board/view.jsp"); %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>게시판 글보기</title>
+
+<!-- 라이브러리 등록  jQuery, Bootstrap : CDN 방식 -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+<div class="container">
+<h1>게시판 글보기</h1>
+<table class="table">
+<tr>
+	<th>번호</th>
+	<td>10</td>
+</tr>
+<tr>
+	<th>제목</th>
+	<td>JSP란?</td>
+</tr>
+<tr>
+	<th>내용</th>
+	<td><pre style="background: none; border: none;">웹프로그래밍입니다.
+	자바 기반의 프로그램입니다.</pre></td>
+</tr>
+<tr>
+	<th>작성자</th>
+	<td>이영환</td>
+</tr>
+<tr>
+	<th>작성일</th>
+	<td>2020.11.20</td>
+</tr>
+<tr>
+	<th>조회수</th>
+	<td>5</td>
+</tr>
+<tr>
+	<td colspan ="2" >
+		<a href = "updateForm.jsp" class="btn btn-default">수정</a>
+		<a href = "delete.jsp" class="btn btn-default">삭제</a>
+		<a href = "list.jsp" class="btn btn-default">목록</a>
+	</td>
+</tr>
+</table>
+</div>
+</body>
+</html>
