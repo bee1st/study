@@ -1,0 +1,478 @@
+!SESSION 2020-12-07 23:15:46.380 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.256
+!MESSAGE NLS unused message: url_couldNotResolve_projectDoesNotExist in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.625
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.625
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.627
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.627
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.628
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.629
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.629
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:48.630
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.269
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.269
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.270
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.270
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.271
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:15:49.272
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:16:24.526
+!MESSAGE NLS unused message: BinaryDumpHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:16:24.527
+!MESSAGE NLS unused message: ConvertToXMLHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:16:24.528
+!MESSAGE NLS unused message: SelectHandler_11 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:16:24.528
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_4 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-07 23:16:24.529
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_5 in: com.tomato.exerd.handler.messages
+!SESSION 2020-12-12 09:58:12.546 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:13.800
+!MESSAGE NLS unused message: url_couldNotResolve_projectDoesNotExist in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-12-12 09:58:13.862
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.065
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.065
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.081
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:14.409
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:17.614
+!MESSAGE NLS unused message: BinaryDumpHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:17.614
+!MESSAGE NLS unused message: ConvertToXMLHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:17.614
+!MESSAGE NLS unused message: SelectHandler_11 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:17.614
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_4 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 09:58:17.614
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_5 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.ui 4 0 2020-12-12 11:37:16.863
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.RuntimeException: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:567)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.updateResource(AbstractDiagramEditor.java:1499)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.doSave(AbstractDiagramEditor.java:741)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.doSaveAs(AbstractDiagramEditor.java:780)
+	at org.eclipse.ui.internal.SaveAsAction.run(SaveAsAction.java:63)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:583)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:500)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:411)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1003)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3823)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3422)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2384)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2348)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2200)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:495)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:490)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:386)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+Caused by: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1058)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:561)
+	... 32 more
+Caused by: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1048)
+	... 33 more
+
+!ENTRY org.eclipse.ui 4 4 2020-12-12 11:37:40.829
+!MESSAGE 저장 실패
+
+!ENTRY org.eclipse.ui 2 0 2020-12-12 11:37:40.830
+!MESSAGE 저장 실패
+!STACK 0
+java.lang.RuntimeException: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:567)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.updateResource(AbstractDiagramEditor.java:1499)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.doSave(AbstractDiagramEditor.java:741)
+	at org.eclipse.ui.internal.SaveableHelper$1.run(SaveableHelper.java:143)
+	at org.eclipse.ui.internal.SaveableHelper$4.run(SaveableHelper.java:266)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:758)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:755)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2487)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:274)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:253)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:148)
+	at org.eclipse.ui.internal.EditorManager.savePart(EditorManager.java:1350)
+	at org.eclipse.ui.internal.WorkbenchPage.savePart(WorkbenchPage.java:3291)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3304)
+	at org.eclipse.ui.internal.SaveAction.run(SaveAction.java:74)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:119)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:476)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:169)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.executeCommand(WorkbenchKeyboard.java:472)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.press(WorkbenchKeyboard.java:824)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.processKeyEvent(WorkbenchKeyboard.java:882)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.filterKeySequenceBindings(WorkbenchKeyboard.java:571)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.access$3(WorkbenchKeyboard.java:512)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard$KeyDownFilter.handleEvent(WorkbenchKeyboard.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1184)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1002)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1027)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1012)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1040)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1036)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1352)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:3894)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:341)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:3787)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:337)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4528)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2371)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3420)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2384)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2348)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2200)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:495)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:490)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:386)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+Caused by: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1058)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:561)
+	... 64 more
+Caused by: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1048)
+	... 65 more
+
+!ENTRY org.eclipse.ui 4 4 2020-12-12 11:38:40.078
+!MESSAGE 저장 실패
+
+!ENTRY org.eclipse.ui 2 0 2020-12-12 11:38:40.079
+!MESSAGE 저장 실패
+!STACK 0
+java.lang.RuntimeException: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:567)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.updateResource(AbstractDiagramEditor.java:1499)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.doSave(AbstractDiagramEditor.java:741)
+	at org.eclipse.ui.internal.SaveableHelper$1.run(SaveableHelper.java:143)
+	at org.eclipse.ui.internal.SaveableHelper$4.run(SaveableHelper.java:266)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:464)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:372)
+	at org.eclipse.jface.window.ApplicationWindow$1.run(ApplicationWindow.java:758)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.jface.window.ApplicationWindow.run(ApplicationWindow.java:755)
+	at org.eclipse.ui.internal.WorkbenchWindow.run(WorkbenchWindow.java:2487)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:274)
+	at org.eclipse.ui.internal.SaveableHelper.runProgressMonitorOperation(SaveableHelper.java:253)
+	at org.eclipse.ui.internal.SaveableHelper.savePart(SaveableHelper.java:148)
+	at org.eclipse.ui.internal.EditorManager.savePart(EditorManager.java:1350)
+	at org.eclipse.ui.internal.WorkbenchPage.savePart(WorkbenchPage.java:3291)
+	at org.eclipse.ui.internal.WorkbenchPage.saveEditor(WorkbenchPage.java:3304)
+	at org.eclipse.ui.internal.SaveAction.run(SaveAction.java:74)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.commands.ActionHandler.execute(ActionHandler.java:119)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:476)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:508)
+	at org.eclipse.ui.internal.handlers.HandlerService.executeCommand(HandlerService.java:169)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.executeCommand(WorkbenchKeyboard.java:472)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.press(WorkbenchKeyboard.java:824)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.processKeyEvent(WorkbenchKeyboard.java:882)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.filterKeySequenceBindings(WorkbenchKeyboard.java:571)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard.access$3(WorkbenchKeyboard.java:512)
+	at org.eclipse.ui.internal.keys.WorkbenchKeyboard$KeyDownFilter.handleEvent(WorkbenchKeyboard.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.filterEvent(Display.java:1184)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1002)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1027)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1012)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1040)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1036)
+	at org.eclipse.swt.widgets.Widget.wmChar(Widget.java:1352)
+	at org.eclipse.swt.widgets.Control.WM_CHAR(Control.java:3894)
+	at org.eclipse.swt.widgets.Canvas.WM_CHAR(Canvas.java:341)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:3787)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:337)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4528)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2371)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3420)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2384)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2348)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2200)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:495)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:288)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:490)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:113)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:193)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:386)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:549)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:504)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1236)
+Caused by: java.lang.RuntimeException: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1058)
+	at com.tomato.exerd.editor.AbstractDiagramEditor.createResource(AbstractDiagramEditor.java:561)
+	... 64 more
+Caused by: java.lang.NullPointerException
+	at com.tomato.exerd.editor.AbstractDiagramEditor.isXMLInput(AbstractDiagramEditor.java:1048)
+	... 65 more
+!SESSION 2020-12-12 11:50:08.045 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.151
+!MESSAGE NLS unused message: url_couldNotResolve_projectDoesNotExist in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-12-12 11:50:09.198
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.448
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:09.682
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:12.657
+!MESSAGE NLS unused message: BinaryDumpHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:12.657
+!MESSAGE NLS unused message: ConvertToXMLHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:12.657
+!MESSAGE NLS unused message: SelectHandler_11 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:12.657
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_4 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-12 11:50:12.657
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_5 in: com.tomato.exerd.handler.messages
+!SESSION 2020-12-19 13:32:23.385 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.6.0_24
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=ko_KR
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.604
+!MESSAGE NLS unused message: url_couldNotResolve_projectDoesNotExist in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.core.resources 2 10035 2020-12-19 13:32:24.667
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:24.964
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:25.245
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:28.278
+!MESSAGE NLS unused message: BinaryDumpHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:28.278
+!MESSAGE NLS unused message: ConvertToXMLHandler_1 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:28.278
+!MESSAGE NLS unused message: SelectHandler_11 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:28.278
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_4 in: com.tomato.exerd.handler.messages
+
+!ENTRY org.eclipse.osgi 2 1 2020-12-19 13:32:28.278
+!MESSAGE NLS unused message: ToggleColumnVisibilityHandler_5 in: com.tomato.exerd.handler.messages
