@@ -11,16 +11,21 @@
     Connection conn = DriverManager.getConnection(url, uid, upw);
     
     request.setCharacterEncoding("utf-8");
-    String id = request.getParameter("id");
-    String title = request.getParameter("title");
+    int dat_no = Integer.parseInt(request.getParameter("dat_no"));
     String content = request.getParameter("content");
-  
-    String sql = "update fboard set title='"+title+"', content='"+content+"' where id=" +id;
-   	
-    Statement stmt = conn.createStatement();
+    String dat_no_id = request.getParameter("dat_no_id");
+   
+    String sql = "update fboard_dat set content=? where dat_no=?";
     
-    stmt.executeUpdate(sql);
+    PreparedStatement pstmt = conn.prepareStatement(sql);
+    pstmt.setString(1, content);
+    pstmt.setInt(2, dat_no);
     
-    response.sendRedirect("board_list.jsp");
+    pstmt.executeUpdate();
+    
+    response.sendRedirect("board_content.jsp?id="+dat_no_id);
+    
     
 %>
+
+    

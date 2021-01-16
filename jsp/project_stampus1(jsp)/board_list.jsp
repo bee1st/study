@@ -4,7 +4,7 @@
 <%
 
 	String driver = "oracle.jdbc.driver.OracleDriver";
-	String url = "jdbc:oracle:thin:@211.205.104.35:1521:xe";
+	String url = "jdbc:oracle:thin:@222.232.45.48:1521:xe";
 	String uid = "ky";
 	String upw = "1234";
 	Class.forName(driver);
@@ -46,19 +46,16 @@
     String word = "";
     if(request.getParameter("cla") == null){
     	sql = "select * from (select row_number() over (order by id) num, A.* from fboard A order by id) where num between " + index + " and " + (index + 10);
-    	
+    
     } else {
     	cla = request.getParameter("cla"); //검색필드
     	word = request.getParameter("word"); //검색단어
     	if(cla.equals("name")) {
-    		sql = "select * from (select * from fboard where name like '%" + word + "%' order by id desc) where id between " + index + " and " + (index + 10);
+    		sql = "select * from (select row_number() over (order by id) num, A.* from fboard A where name like '%" + word + "%' order by id) where num between " + index + " and " + (index + 10);
     		addsql = " where name like '%" + word + "%' ";
-    	//SELECT review_no,review_title,review_view,review_postday,user_id 
-    	//    FROM(SELECT ROWNUM AS RM, review_no,review_title,review_view,review_postday,user_id 
-    	//   	    FROM(SELECT * FROM review ORDER BY review_no DESC)
-    	//    	    ) WHERE RM between 0 and 10;
+
     	} else {
-    		sql = "select * from (select * from fboard where title like '%" + word + "%' order by id desc) where id between " + index + " and " + (index + 10);
+    		sql = "select * from (select row_number() over (order by id) num, A.* from fboard A where title like '%" + word + "%' order by id) where num between " + index + " and " + (index + 10);
     		addsql = " where title like '%" + word + "%' ";
     	}
     }
