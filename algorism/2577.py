@@ -1,11 +1,13 @@
-a = 1
-for i in range(3):
-    a *= int(input())
-a = str(a)
-result = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+A = int(input())
+B = int(input())
+C = int(input())
 
-for n in list(a):
-    result[int(n) - int('0')] += 1
+Result = str(A * B * C)
+
+count = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+for n in list(Result):
+    count[int(n)] += 1
 
 # while (True):
 #     result[a % 10] += 1
@@ -14,4 +16,4 @@ for n in list(a):
 #         break
 
 for i in range(10):
-    print(result[i])
+    print(count[i])
