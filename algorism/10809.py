@@ -1,8 +1,7 @@
 import sys
 x = sys.stdin.readline()
-
 box = 'abcdefghijklmnopqrstuvwxyz'
-
-for i in range(len(x)):
-    box.find(x[0])
-    print(box)
+a = []
+for i in box:
+    a = x.find(i)
+    print(a, end=' ')
