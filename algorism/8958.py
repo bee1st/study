@@ -1,18 +1,14 @@
-TestCase = int(input())
-for i in range(TestCase):
-    a = input()
-    b = []
-    c = 0
-    sum = 0
-    b.append(a)
-    for j in b:
-        if j == 'O':
-            c += 1
-            sum += c
-        else :
-            c = 1
-    print(sum)
-
-
-
-    
+import sys
+Num = int(input())
+for i in range(Num):
+    OX = sys.stdin.readline()
+    score = 0
+    cnt = 0
+    for j in range(len(OX)):
+        if OX[j] == 'O':
+            cnt += 1
+            score += cnt
+        elif OX[j] == 'X':
+            score += 0
+            cnt = 0
+    print(score) 

@@ -1,6 +1,7 @@
 import sys
 voca = sys.stdin.readline().upper()
-box = list(set(voca))
+
+box = list(set(voca[:-1]))
 alphabat = []
 for i in box:
     a = voca.count(i)
@@ -9,5 +10,6 @@ for i in box:
 if alphabat.count(max(alphabat)) > 1:
     print('?')
 else :
-    max_cnt = alphabat.index(max(alphabat))
-    print(box[max_cnt])
+    result = alphabat.index(max(alphabat))
+    print(box[result])
+
