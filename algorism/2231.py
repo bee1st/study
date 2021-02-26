@@ -18,6 +18,3 @@ for i in range(N[0]):
 if check == False:
     print(0)
 
-
-
-
