@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Object</h1>
+    <h2>Create</h2>
+    <script>
+        var List = {
+            "first" : "python",
+            "second" : "java",
+        };
+        document.write('first : ' + List.first + '<br>');
+        document.write('second : ' + List.second + '<br>');
+        List.third = "jsp";
+        document.write('third : ' + List.third + '<br>');
+        List["forth"] = "spring";
+        document.write('forth : ' + List.forth + '<br>');
+    </script>
+    <h2>Iterate</h2>
+    <script>
+        for(var key in List) {
+            document.write(key + ' : ' + List[key] + '<br>');
+        }
+    </script>
+    <h2>Property & Method</h2>
+    <script>
+        List.showAll = function() {
+            for(var key in this) {
+                document.write(key + ' : ' + this[key] + '<br>');
+            }
+        }
+        List.showAll();
+    </script>
+</body>
+</html>
